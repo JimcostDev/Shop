@@ -1,0 +1,22 @@
+SMAP
+SalesComplete_jsp.java
+JSP
+*S JSP
+*F
++ 0 SalesComplete.jsp
+SalesComplete.jsp
+*L
+5,24:45
+29,2:70
+30,11:72
+41:83,3
+42:86
+43,3:87,3
+46,9:96
+55:105,3
+56:108
+57:109,3
+58:112
+59:113,5
+60,11:118
+*E
